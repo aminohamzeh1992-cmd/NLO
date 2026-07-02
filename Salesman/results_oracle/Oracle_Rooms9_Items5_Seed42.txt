@@ -1,0 +1,12 @@
+Salesman oracle summary
+============================================================
+size=15 rooms=9
+start=(0, 14) goal=(14, 0)
+items=[(13, 3), (1, 14), (11, 7), (7, 2), (0, 8)]
+optimal_steps=42
+optimal_order_items_1based=2-5-3-4-1
+optimal_segment_steps=[1, 9, 12, 9, 7, 4]
+naive_steps=108
+naive_order_items_1based=1-2-3-4-5
+improvement_steps=66
+improvement_percent=61.11
